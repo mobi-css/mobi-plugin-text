@@ -20,14 +20,14 @@
 <p class="text-danger">.text-danger</p>
 ```
 
-<p><a class="text-muted">a.text-muted</a></p>
-<p><a class="text-primary">a.text-primary</a></p>
-<p><a class="text-danger">a.text-danger</a></p>
+<p><a class="text-muted" href="#">a.text-muted</a></p>
+<p><a class="text-primary" href="#">a.text-primary</a></p>
+<p><a class="text-danger" href="#">a.text-danger</a></p>
 
 ```html
-<p><a class="text-muted">a.text-muted</a></p>
-<p><a class="text-primary">a.text-primary</a></p>
-<p><a class="text-danger">a.text-danger</a></p>
+<p><a class="text-muted" href="#">a.text-muted</a></p>
+<p><a class="text-primary" href="#">a.text-primary</a></p>
+<p><a class="text-danger" href="#">a.text-danger</a></p>
 ```
 
 <p class="text-small">.text-small</p>
